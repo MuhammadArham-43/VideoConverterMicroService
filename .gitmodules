@@ -1,3 +1,3 @@
 [submodule "auth"]
 	path = auth
-	url = ./auth
+	url = https://github.com/MuhammadArham-43/FlaskAuthService
